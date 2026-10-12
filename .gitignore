@@ -1,0 +1,24 @@
+﻿# Visual Studio / IDE
+.vs/
+.idea/
+.vscode/
+*.sln
+*.VC.db
+*.opendb
+.vsconfig
+
+# Unreal Engine temporary & cache folders
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+Build/Android/
+Build/IOS/
+Build/Linux/
+Build/Mac/
+Build/Windows/
+
+# Crash reports and logs
+*.log
+*.dmp
+.output.txt
